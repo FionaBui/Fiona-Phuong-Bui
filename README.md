@@ -9,7 +9,7 @@ I also have a deep love for **culinary arts and gastronomy**, which inspires my 
 - **Other:** Figma, Scrum
 
 ### 🚀 Projects:
-- [MonKitchen](https://monkitchen.se) - My own restaurant's website.
+- [Cà Phê - Restaurant](https://caphe-restaurant.vercel.app/) - My own restaurant's website.
 - [TheMealDB Project]() - A recipe search app using TheMealDB API.
 - [UX/UI Case Study]() - A user-centered design project.
 
